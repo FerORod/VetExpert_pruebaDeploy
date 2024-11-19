@@ -8,8 +8,7 @@
     "ios": "expo start --ios",
     "web": "expo start --web",
     "test": "jest --watchAll",
-    "lint": "expo lint",
-    "postinstall": "prisma generate"
+    "lint": "expo lint"
   },
   "jest": {
     "preset": "jest-expo"
